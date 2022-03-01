@@ -2,7 +2,6 @@
 
 https://guzik98.github.io/notatnik/
 
-https://github.com/Guzik98/notatnik
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
